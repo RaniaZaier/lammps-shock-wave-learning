@@ -60,7 +60,7 @@ lammps-shock-wave-learning/
 
 ### 3D Visualization
 
-![Structure](results/structure.png)
+![Structure](structure.png)
 
 **Figure 1:** OVITO visualization of aluminum FCC crystal colored by velocity. Yellow regions show high-velocity atoms (shock front), red/pink regions show slower atoms. Shock propagates left to right.
 
@@ -94,7 +94,7 @@ lammps-shock-wave-learning/
 
 ### Energy Conservation
 
-![Energy](results/energy_evolution.png)
+![Energy](energy_evolution.png)
 
 **Figure 4:** Potential, kinetic, and total energy demonstrating NVE ensemble conservation.
 
