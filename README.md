@@ -1,8 +1,6 @@
 [README.md](https://github.com/user-attachments/files/28024777/README.md)
 # LAMMPS Shock Wave Simulations in Aluminum
 
-**Learning project for femtosecond laser peening research**
-
 **Author:** Rania Zaier 
 
 ---
@@ -62,7 +60,7 @@ lammps-shock-wave-learning/
 
 ### 3D Visualization
 
-![Structure](results/structure_visualization.png)
+![Structure](results/structure.png)
 
 **Figure 1:** OVITO visualization of aluminum FCC crystal colored by velocity. Yellow regions show high-velocity atoms (shock front), red/pink regions show slower atoms. Shock propagates left to right.
 
@@ -70,7 +68,7 @@ lammps-shock-wave-learning/
 
 ### Pressure Evolution
 
-![Pressure](results/pressure_evolution.png)
+![Pressure](pressure_evolution.png)
 
 **Figure 2:** System pressure vs time during shock propagation.
 
@@ -83,7 +81,7 @@ lammps-shock-wave-learning/
 
 ### Temperature Evolution
 
-![Temperature](results/temperature_evolution.png)
+![Temperature](temperature_evolution.png)
 
 **Figure 3:** Temperature evolution during shock wave propagation.
 
