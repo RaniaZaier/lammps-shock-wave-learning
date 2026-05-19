@@ -3,9 +3,7 @@
 
 **Learning project for femtosecond laser peening research**
 
-**Author:** Rania Zaier  
-**Date:** May 2026  
-**Context:** Preparation for postdoctoral research on fs-laser peening with XFEL characterization
+**Author:** Rania Zaier 
 
 ---
 
@@ -282,13 +280,3 @@ Computational Physicist | DFT/MD Simulations
 rania.zaier02@gmail.com  
 
 [LinkedIn](https://linkedin.com/in/rania-zaier) | [GitHub](https://github.com/RaniaZaier)
-
----
-
-## Acknowledgments
-
-This project was developed in preparation for a postdoctoral position on molecular dynamics simulations of femtosecond laser peening at:
-- **Laboratoire Hubert Curien** (UMR CNRS 5516), Saint-Étienne, France
-- In collaboration with **DESY**, Hamburg, Germany
-
-*This work bridges my quantum DFT expertise with classical MD methods, demonstrating rapid adaptability and computational physics fundamentals required for the fs-laser peening project.*
