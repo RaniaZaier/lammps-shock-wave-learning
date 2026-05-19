@@ -1,5 +1,6 @@
 [README.md](https://github.com/user-attachments/files/28024777/README.md)
 # LAMMPS Shock Wave Simulations in Aluminum
+**Learning project for femtosecond laser peening research**
 
 **Author:** Rania Zaier 
 
