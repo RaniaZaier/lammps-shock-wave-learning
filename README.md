@@ -10,15 +10,6 @@
 
 This repository documents my exploration of molecular dynamics (MD) simulations using LAMMPS, focused on shock wave propagation in aluminum — directly relevant to ultrashort laser peening applications.
 
-### Motivation
-
-I am preparing for a postdoctoral project investigating shock wave dynamics during femtosecond laser peening, combining:
-- **XFEL experimental measurements** (DESY, Hamburg)
-- **Molecular dynamics simulations** (LAMMPS + Two-Temperature Model)
-- **Atomistic understanding** of elastic/plastic deformation, dislocations, and phase transitions
-
-While my background is in DFT/TD-DFT computational physics (GPAW, CASTEP, Gaussian), I am familiarizing myself with classical MD methods to contribute effectively to this computational-experimental synergy.
-
 ---
 
 ## Project Structure
