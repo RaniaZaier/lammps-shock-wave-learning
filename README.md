@@ -203,7 +203,7 @@ python3 analyze.py
 ### Medium-term
 4. **Defect analysis:** Dislocation detection (DXA, CNA)
 5. **Plastic deformation:** Track slip systems and twinning
-6. **XFEL comparison:** Develop workflows for experimental data
+6. **comparison:** Develop workflows for experimental data
 
 ### Advanced
 7. **Phase transitions:** Solid-solid transformations under pressure
